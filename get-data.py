@@ -3,7 +3,7 @@ import json
 import urllib
 from urllib.parse import quote
 
-apikey = '*****'
+apikey = 'enter API KEY here'
 
 # make the empty dictionary
 songs = {}
