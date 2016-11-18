@@ -3,13 +3,13 @@ import json
 import urllib
 from urllib.parse import quote
 
-apikey = 'enter API Key here'
+apikey = '15db1d484a04824548d38501eee28baa'
 
 # make the empty dictionary
 songs = {}
 
 # loop through the years we're interested in
-for x in range(1958, 2016):
+for x in range(1960, 2016):
     # another dictionary inside
     songs[x] = {}
     # get the chart for the last week of that year

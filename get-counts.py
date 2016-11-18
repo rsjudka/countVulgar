@@ -18,15 +18,17 @@ with open('banned3.txt', 'r') as banned_words:
 years = {}
 word_freq = {}
 word_years = {}
-count = 0
+temp = []
 total = 0
 i = 0
 
 with open('song-data.json') as lyrics:
     for line in lyrics:
         if line[0] == '>':
+                temp.clear()
                 i = int(line[1:5])
                 years[i] = 0
+                word_years[i] = {}
         elif line[0] == '(':
             pass
         else:
@@ -41,6 +43,12 @@ with open('song-data.json') as lyrics:
                         word_freq[part] = 1
                     else:
                         word_freq[part] += 1
+                    if part not in word_years[i]:
+                        word_years[i][part] = 1
+                    else:
+                        word_years[i][part] += 1
+
+
 
 with open('years-data.txt', 'w') as out_file:
     for x in sorted(years):
@@ -51,4 +59,9 @@ with open('years-data.txt', 'w') as out_file:
 with open('banned-data.txt', 'w') as out_file:
     for x in OrderedDict(sorted(word_freq.items(), key=lambda x: x[1])):
         out_file.write(str(x) + ": " + str(word_freq[x]))
+        out_file.write('\n')
+
+with open('years-banned-data.txt', 'w') as out_file:
+    for x in sorted(word_years):
+        out_file.write(str(x) + ": " + str(word_years[x]))
         out_file.write('\n')
