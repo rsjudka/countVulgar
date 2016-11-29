@@ -1,3 +1,7 @@
+import plotly.plotly as py
+py.sign_in('rsjudka', 'jQOyOfRQc2bvvH7GH18e')
+import plotly.graph_objs as go
+import numpy as np
 from collections import OrderedDict
 
 #creating a list of various banned words across multiple websites
@@ -48,9 +52,9 @@ with open('song-data.json') as lyrics:
                     else:
                         word_years[i][part] += 1
 
+######################## DATA FILES ########################
 
-
-with open('years-data.txt', 'w') as out_file:
+'''with open('years-data.txt', 'w') as out_file:
     for x in sorted(years):
         out_file.write(str(x) + ": " + str(years[x]))
         out_file.write('\n')
@@ -64,4 +68,43 @@ with open('banned-data.txt', 'w') as out_file:
 with open('years-banned-data.txt', 'w') as out_file:
     for x in sorted(word_years):
         out_file.write(str(x) + ": " + str(word_years[x]))
-        out_file.write('\n')
+        out_file.write('\n')'''
+
+######################## GRAPHS ########################
+year = []
+count = []
+word = []
+for x in years:
+    year.append(str(x))
+for y in word_freq:
+    word.append(y)
+
+z = []
+for wrd in word:
+    a = []
+    for yr in year:
+        if wrd in word_years[int(yr)]:
+            a.append(word_years[int(yr)][wrd])
+        else:
+            a.append(0)
+    z.append(list(a))
+
+data = [
+    go.Heatmap(
+        z=z,
+        x=year,
+        y=word,
+        colorscale='Viridis',
+    )
+]
+
+layout = go.Layout(
+    autosize=False,
+    width=1200,
+    height=1600,
+    xaxis = dict(ticks='', nticks=len(year)+1),
+    yaxis = dict(ticks='')
+)
+
+fig = go.Figure(data=data, layout=layout)
+py.iplot(fig, filename='words-years-count')
