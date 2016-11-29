@@ -6,7 +6,7 @@ Swears per year:
 
 SwearMap:
 <div>
-    <a href="https://plot.ly/~rsjudka/6.embed" target="_blank" title="" style="display: block; text-align: center;"><img src="https://github.com/rsjudka/countVulgar/blob/master/graphs/words-years-count.png" alt="" style="max-width: 100%;width: 1200px;"  width="1200" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~rsjudka/6.embed" target="_blank" title="" style="display: block; text-align: center;"><img src="https://github.com/rsjudka/countVulgar/blob/master/graphs/words-years-count.png" alt="" style="max-width: 100%;width: 1200px;"  width="1600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="rsjudka:6"  src="https://plot.ly/embed.js" async></script>
 </div>
 
