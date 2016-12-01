@@ -6,11 +6,6 @@ Swears per year:
 
 SwearMap:
 <div>
-    <a href="https://plot.ly/~rsjudka/6.embed" target="_blank" title="" style="display: block; text-align: center;"><img src="https://github.com/rsjudka/countVulgar/blob/master/graphs/6.png" alt="" style="max-width: 100%;width: 1300px;"  width="1300" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="rsjudka:6"  src="https://plot.ly/embed.js" async></script>
-</div>
-
-<div>
     <a href="https://plot.ly/~rsjudka/6/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~rsjudka/6.png" alt="" style="max-width: 100%;width: 1300px;"  width="1300" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="rsjudka:6"  src="https://plot.ly/embed.js" async></script>
 </div>
