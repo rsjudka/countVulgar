@@ -16,13 +16,10 @@ A couple years later, a new band comes to the world stage and enchants millions 
 
 Flash forward to more recent trends in music, and you have songs with explicit language, about all kinds of sex, killing others, doing drugs, idealising women, etc putting to shame with songs of years prior have said within the lyrics.  Not just any music but many of the top billboard hits that garnered plenty of airplay on the radio.  The public seems to have gone complacent with the taboo ideas of years before.
 
-Me and my co-researcher decided to look into the music industry to try and find out if there was an actual increase in raunchy, adulterated themes in the most popular music.  In order to have an actual measurement of any possible change we settled on analysing the frequency of profanity and curse words.  To us it seemed that there had to have been some sort of increase in explicit songs becoming popular, because if you listen to a song from 1965 and a song from 2015 it was evident that there is a difference in the subtleties of old genres and the straightforward approach of today's top hits.
+Me and my co-researcher decided to look into the music industry to try and find out if there was an actual increase in raunchy, adulterated themes in the most popular music.  In order to have an actual measurement of any possible change we settled on analysing the frequency of profanity and curse words.  To us it seemed that there had to have been some sort of increase in explicit songs becoming popular, because if you listen to a song from 1965 and a song from 2015, it is evident that there is a difference in the subtleties of old genres and the straightforward approach of today's top hits.
 
-
-
-
-
-
+###So what did you guys find out?
+Well, from the initial data we gathered we were wrong. I'm talking about the time span from 2000 - 2015, in which we had the full lyrics of each top ten song of every year.  This was surprising because out of the 150 songs we assumed that more swear words would appear in the later years because of the increase of rap artists that have become more mainstream than ever before.  Thought there was an increase in swear words in that time span there was not much of a difference in use.  The increase can even be attributed to an increase in songs being published that include more swear word than usual.
 
 
 
