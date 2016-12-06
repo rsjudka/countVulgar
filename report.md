@@ -1,19 +1,16 @@
+#Pop Music gets explicit
 
-
-<div>
-    <a href="https://plot.ly/~rsjudka/2/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~rsjudka/2.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="rsjudka:2"  src="https://plot.ly/embed.js" async></script>
-</div>
 
 ###What is the worst thing possible in the music industry?
 
-It’s 1956, and a young man is performing one of his chart topping hits live on national television on “The Milton Berle Show”.  The whole country of USA goes crazy, with television critics claiming the performance was despicable due to it’s “appalling lack of musicality”, it’s “vulgarity” and “animalism”.  <space for picture of Elvis>
+It’s 1956, and a young man is performing one of his chart topping hits live on national television on “The Milton Berle Show”.  The whole country of USA goes crazy, with television critics claiming the performance was despicable due to it’s “appalling lack of musicality”, it’s “vulgarity” and “animalism”.
 
 ![elvisPresley](https://s-media-cache-ak0.pinimg.com/236x/6b/f8/b3/6bf8b38d73723c91baf232ded1346b53.jpg)
 
 Even the church had something to say, sending out a headline, “Beware Elvis Presley”.  The young man, Elvis Presley, had performed on live television and did something that was obscene at the time, move his hips back and forth.  He would go on to become one of the most influential artist in American music history. 
 
-A couple years later, a new band comes to the world stage and enchants millions with their nitty gritty musical lyrics, ecstatic onstage presence, and do what they want lifestyle.  While other bands tried to keep their public image as clean as they could, these guys didn’t care what their fans thought about their way of living, in which they abuse alcohol, marijuana, heroin, and a whole host of other drugs.  The Rolling Stones would turn out to be a controversial band, with many believing them to be devil worshipers, that would last the test of time all the way into the modern day.<space for sympathy for the devil picture>
+A couple years later, a new band comes to the world stage and enchants millions with their nitty gritty musical lyrics, ecstatic onstage presence, and do what they want lifestyle.  While other bands tried to keep their public image as clean as they could, these guys didn’t care what their fans thought about their way of living, in which they abuse alcohol, marijuana, heroin, and a whole host of other drugs.  The Rolling Stones would turn out to be a controversial band, with many believing them to be devil worshipers, that would last the test of time all the way into the modern day.
+
 ![rollingStones](https://upload.wikimedia.org/wikipedia/en/2/2b/Beggar_Banquet.jpg)
 
 Flash forward to more recent trends in music, and you have songs with explicit language, about all kinds of sex, killing others, doing drugs, idealising women, etc putting to shame with songs of years prior have said within the lyrics.  Not just any music but many of the top billboard hits that garnered plenty of airplay on the radio.  The public seems to have gone complacent with the taboo ideas of years before.
@@ -35,7 +32,13 @@ Now armed with over 50 years of top 100 songs, although only partial lyrics, we 
     <script data-plotly="rsjudka:6"  src="https://plot.ly/embed.js" async></script>
 </div>
 
-So from the graph above you can see that most of the curse words were used in the more recent years towards the right.  Not only did the frequency of previous curse words go up, new ones that had not been used before also recieved an increase as well.
+So from the graph above you can see that most of the curse words were used in the more recent years towards the right.  Not only did the frequency of previous curse words go up, but new ones that had not been used before also recieved an increase in use.   
 
+This next graph shows the total count of curse words used each year, an even better visual of the increase in curse words. The only caveat of our data is that the lyrics used for the larger range is only the first part of each song so it's not as accurate as it can be.
+
+<div>
+    <a href="https://plot.ly/~rsjudka/2/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~rsjudka/2.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="rsjudka:2"  src="https://plot.ly/embed.js" async></script>
+</div>
 
 Curse words are as old as the english language, and so have become a,although controversial, large part of American culture.  Many believe that profanity is the worst kind of language that can be used, due to it’s aggressive meaning and negative connotations.  The crutch of the inarticulate, the weapon of the uneducated, are just some of the descriptions given to swearing.  The way in which we use language gives other people a look into what kind of person we are and what is our character. In other words if a person uses explicit language, his peers look at him as a person that has lazy speech due to the fact that he can not come up with anything more creative.  Even the bible has various quotes stating not to use foul language.  On the opposite side of the argument are those that believe that there is absolutely nothing wrong with cursing and it’s a very useful part of the english language.  Their thinking is that curse words have a use in giving a sentence or thought an extra punch that makes whatever point that is trying to be explained more emphasized. According to a study done in New Zealand in 2004 
