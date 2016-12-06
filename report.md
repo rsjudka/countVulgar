@@ -39,19 +39,3 @@ So from the graph above you can see that most of the curse words were used in th
 
 
 Curse words are as old as the english language, and so have become a,although controversial, large part of American culture.  Many believe that profanity is the worst kind of language that can be used, due to it’s aggressive meaning and negative connotations.  The crutch of the inarticulate, the weapon of the uneducated, are just some of the descriptions given to swearing.  The way in which we use language gives other people a look into what kind of person we are and what is our character. In other words if a person uses explicit language, his peers look at him as a person that has lazy speech due to the fact that he can not come up with anything more creative.  Even the bible has various quotes stating not to use foul language.  On the opposite side of the argument are those that believe that there is absolutely nothing wrong with cursing and it’s a very useful part of the english language.  Their thinking is that curse words have a use in giving a sentence or thought an extra punch that makes whatever point that is trying to be explained more emphasized. According to a study done in New Zealand in 2004 
-
-
-
-
-
-
-Data paragraph
-
-
-
-
-
-
-Progress of music paragraph
-
-
